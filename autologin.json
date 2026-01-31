@@ -1,5 +1,9 @@
 {
-  "ChatGPT": false,
-  "Xhamster": false,
-  "Birugrauds": true
+  "version": 1,
+  "updated_at": "2026-01-30T22:17:10-0300",
+  "characters": {
+    "Birugrauds": true,
+    "Xhamster": true,
+    "ChatGPT": true
+  }
 }
